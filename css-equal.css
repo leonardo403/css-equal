@@ -15,5 +15,5 @@ a{text-decoration: none;cursor: pointer;color:inherit;}
 textarea{resize: none;overflow-y: auto;}
 iframe{border-style: none;}
 fieldset, hr, input, button, select, textarea, keygen, img{border-style: none;outline-style: none;font-family: inherit;background-color: transparent;}
-input[type=button], input[type=reset], input[type=submit], input[type=file], input[type=image], button{cursor: pointer;}
+input[type=button], input[type=reset], input[type=submit], input[type=file], input[type=image], input[type=password], button{cursor: pointer;}
 input[disabled]{cursor: default;}
